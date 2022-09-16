@@ -1,0 +1,153 @@
+body {
+    margin: 0;
+}
+.intro {
+    background-color: #BFACE0;
+    padding: 10px;
+    font-family:"Comfortaa",sans-serif;
+}
+.introLines {
+    text-align: center;
+    color: white;
+}
+
+.helloTag {
+    text-align: center;
+    font-family:"Comfortaa",sans-serif;
+    color: #B983FF
+}
+
+
+h2 {
+    color: white;
+}
+
+h3 {
+    color: #316B83;
+    text-align: center;
+    font-family:"Comfortaa",sans-serif;
+}
+
+.skillPart {
+    font-family:"Cormorant Garamond";
+    padding: 10px;
+    background-color: #E6CCA9;   
+}
+.skillTag {
+    text-align: center;
+    font-family:"Comfortaa",sans-serif;
+    color: #B983FF
+}
+
+.Binary {
+    position: absolute;
+    float: right;
+    top: -20px;
+    right: -10px;
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+}
+.Database {
+    position: absolute;
+    float: left;
+    top: -20px;
+    left: -10px;
+    width: 100px;
+    height: 100px;
+}
+
+.profilePic {
+    border-radius: 100px;
+    display: block;
+    margin-top: 20px;
+    margin-left: 43%;
+    margin-right: auto;
+    width: 160px;
+    height: 213px;
+    border: 3px solid #181818; 
+}
+.middlePart {
+    padding: 20px;
+    background-color: #E6CCA9;
+    font-family:"Cormorant Garamond";
+    
+}
+.lastPart {
+    font-family:"Cormorant Garamond";
+    text-align: center;
+    padding: 1px;
+    background-color: #E6CCA9;
+    margin: 0;
+}
+
+hr {
+    border-top: 5px dotted #632626;
+    border-radius: 0px;
+    margin: 0 0 0 0;
+}
+
+
+.row {
+    width: 50%;
+    margin: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.column {
+ display: inline-block;
+ 
+}
+
+.left {
+    float: left;
+    margin: 0 0 0 30%;
+    text-align: left;
+}
+
+.right {
+    margin: 0 30% 0 0;
+}
+ .laptop {
+    width: 113px;
+    height: 113px;
+ }
+ .city {
+    width: 112px;
+    height: 112px;
+ }
+ .screen {
+    width: 142px;
+    height: 142px;
+    margin-right: 50%;
+ }
+
+ a {
+    color:crimson;
+ }
+ 
+ a:link {
+    color:crimson;
+    text-decoration: none;
+ }
+
+ .linkButton{
+    padding: 5px;
+    margin: 0 0 5px 0;
+    background-color: #85603F;
+    border-style: solid;
+    border-radius: 5px;
+ }
+ .linkButton:hover {
+    background-color: #EFF0B6
+    
+ }
+
+.copyRight {
+    font-family:"Cormorant Garamond";
+    padding: 2px;
+    background-color: #F0D9FF;
+    text-align: center;
+}
+

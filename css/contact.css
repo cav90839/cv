@@ -1,0 +1,41 @@
+.topPart {
+    text-align: center;
+    background-color: #BFACE0;
+    font-family:"Montserrat";
+    position: relative;
+    padding: 1px;
+ }
+ h1 {
+    font-family:'Pacifico', cursive;
+    color:white;
+ }
+.bottomPart {
+    text-align: center;
+    background-color:  #E6CCA9;
+    font-family:"Montserrat";
+    padding-top: 2%;
+    padding-bottom: 30%;
+ }
+
+ 
+hr {
+    border-top: 6px dotted #632626;
+    border-radius: 0px;
+    margin: 0 0 0 0;
+}
+
+ .column {
+    display: inline-block;
+ }
+
+ .left {
+    float: left;
+    text-align: center;
+    margin: 0 0 0 35%;
+ }
+
+ .right {
+    float:right;
+    text-align: center;
+    margin: 0 32% 0 0;
+ }
